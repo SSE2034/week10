@@ -1,0 +1,8 @@
+*.zip
+practice/bin
+practice/obj
+lab/bin
+lab/obj
+hw/bin
+hw/obj
+hw/out
